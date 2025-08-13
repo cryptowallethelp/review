@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'readthedocs'
-copyright = '2025, NA'
-author = 'NA'
+copyright = '2025, Cryptyo'
+author = 'Cryptyo.com'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
